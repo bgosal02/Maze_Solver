@@ -1,7 +1,7 @@
 /*
- File:          main.c
- Purpose:       Driver for Lab4 Takehome
- Date:			November 11, 2021
+ File:    main.c
+ Purpose: Driver for Lab4 Takehome
+ Date:    November 11, 2021
  */
 
 
