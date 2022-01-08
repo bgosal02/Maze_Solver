@@ -7,7 +7,7 @@
 
 #define _CRT_SECURE_NO_WARNINGS
 
-  /* Preprocessor directives to include libraries */
+/* Preprocessor directives to include libraries */
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
