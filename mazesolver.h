@@ -1,7 +1,7 @@
 /*
- File:          mazesolver.h
- Purpose:       Contains constants, prototypes, globals
- Date:			November 18, 2021
+ File:    mazesolver.h
+ Purpose: Contains constants, prototypes, globals
+ Date:	  November 18, 2021
  */
 
 #pragma once
